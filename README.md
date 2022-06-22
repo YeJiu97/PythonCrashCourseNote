@@ -1,5 +1,5 @@
 # PythonCrashCourseNote
-《Python编程：从入门到实践》笔记
+主要为《Python编程：从入门到实践》该书籍的笔记，语法部分和数据可视化部分。
 
 # Part 1：Python基础语法
 
