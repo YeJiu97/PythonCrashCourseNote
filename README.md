@@ -1,7 +1,7 @@
 # PythonCrashCourseNote
 主要为《Python编程：从入门到实践》该书籍的笔记，语法部分和数据可视化部分。
 
-# Part 1：Python基础语法
+# Python基础语法
 
 章节笔记：https://github.com/YeJiu97/PythonCrashCourseNote/tree/main/Grammar
 
@@ -13,7 +13,7 @@
 
 
 
-# Part 2：Python数据可视化
+# Python数据可视化
 
 Jupyter-Notebook操作：https://github.com/YeJiu97/PythonCrashCourseNote/tree/main/JupyterNotebookCommand
 
@@ -23,6 +23,6 @@ Jupyter-Notebook操作：https://github.com/YeJiu97/PythonCrashCourseNote/tree/m
 
 
 
-# Part 3：相关仓库
+# 相关仓库
 
 PythonPro100Days：https://github.com/YeJiu97/PythonPro100Days
