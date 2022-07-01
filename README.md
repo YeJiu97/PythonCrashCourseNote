@@ -25,4 +25,6 @@ Jupyter-Notebook操作：https://github.com/YeJiu97/PythonCrashCourseNote/tree/m
 
 # 相关仓库
 
-PythonPro100Days：https://github.com/YeJiu97/PythonPro100Days
+Python for Absolute Beginners：https://github.com/YeJiu97/PythonforAbsoluteBeginnersNote
+
+Python 100 Days：https://github.com/YeJiu97/PythonPro100Days
